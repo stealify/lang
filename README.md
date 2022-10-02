@@ -24,4 +24,5 @@ if it discovers json it will turn that into stealify objects so that it is refer
 - Improve Cross Language Boundary Graphs.
 - Implement Syntax Highlighting for github.com when the Browser Supports that.
 - Improve IDE Integration via typescript-language server wrapper and our external stealify browser interface.
-- Create a more integrated Encapsulated VSCODE Build with a Hardcoded methods.
+- [ ] - Create a more integrated Encapsulated VSCODE Build with a Hardcoded methods.
+  - done @stealify/VSStealify
