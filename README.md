@@ -1,5 +1,5 @@
 # lang designed to replace C and Rust in a incremental way.
-The Stealify Lang Reference Implementation
+The Stealify Lang Reference Implementation and related components 
 
 Stealify comes mainly in 3 Flavors .md flavor and a .stealify flavor and .js
 
@@ -21,8 +21,8 @@ if it discovers json it will turn that into stealify objects so that it is refer
 
 
 ## Todo
-- Improve Cross Language Boundary Graphs.
-- Implement Syntax Highlighting for github.com when the Browser Supports that.
-- Improve IDE Integration via typescript-language server wrapper and our external stealify browser interface.
+- [ ] - Improve Cross Language Boundary Graphs.
+- [ ] - Implement Syntax Highlighting for github.com when the Browser Supports that.
+- [ ] - Improve IDE Integration via typescript-language server wrapper and our external stealify browser interface.
 - [ ] - Create a more integrated Encapsulated VSCODE Build with a Hardcoded methods.
-  - done @stealify/VSStealify
+  - [ ] https://vsstudio.github.dspeed.eu
