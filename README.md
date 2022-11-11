@@ -1,4 +1,4 @@
-# lang
+# lang designed to replace C and Rust in a incremental way.
 The Stealify Lang Reference Implementation
 
 Stealify comes mainly in 3 Flavors .md flavor and a .stealify flavor and .js
